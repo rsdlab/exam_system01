@@ -8,3 +8,8 @@ exam_module03:
   git: https://github.com/rsdlab/exam_module03.git
   hash: 34aa75ed5e167420c2bda751b4b46bf1b4c7f06d
   repo_name: exam_module03
+exam_module02:
+  description: 
+  git: https://github.com/rsdlab/exam_module02.git
+  hash: 283be5f102c9bf0eb384533fca42d4a2f14708be
+  repo_name: exam_module02
